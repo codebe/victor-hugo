@@ -1,3 +1,9 @@
+---
+title: 'an-nahdah'
+date: 2019-10-14T19:02:50-07:00
+draft: false
+---
+
 Kata *an-nahdhah* adalah kata yang berasal dari bahasa Arab, yang merupakan pecahan dari kata kerja nahadha yang artinya berdiri. Hanya saja, kata itu telah berubah menjadi sebuah makna istilah yang menunjukkan pada fakta tertentu. Orang-orang Arab sebelumnya belum pernah mempergunakan makna tersebut sebagaimana makna yang digunakan pada masa sekarang. Makna kata tersebut secara *etimologis* (bahasa) berbeda dengan makna secara istilah. Oleh karena itu, kata tersebut tidak akan memiliki makna secara bahasa kecuali disertai adanya indikasi ke arah itu, Hal ini terjadi karena makna istilahnya lebih dominan sehingga menjadi makna yang otomatis tergambar dalam benak pendengarnya ketika mendengar kata tersebut. Hal itu terjadi baik di kalangan para ilmuwan sosial, para pengkaji *tsaqafah* maupun di kalangan orang awam.
 
 Adapun maknanya secara bahasa terdapat dalam kamus Lisanul Arab : 
