@@ -1,7 +1,18 @@
-{{ define "main" }}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
 
-<h1>Nothing Here...</h1>
-<h2 style="font-size: 120px; margin:0;">💩</h2>
-<h3><a href="{{ "/" | relURL }}">Go Home</a></h3>
+<head>
+  {{ partial "docs/html-head" . }}
+  {{ partial "docs/inject/head" . }}
+</head>
 
-{{ end }}
+<body>
+  <main class="flex justify-center">
+    <h1>404 Not Found</h1>
+  </main>
+
+  {{ partial "docs/inject/body" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
+</body>
+
+</html>
